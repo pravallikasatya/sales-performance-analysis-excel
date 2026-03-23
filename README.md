@@ -6,13 +6,12 @@ Businesses often struggle to understand which products, regions, and time period
 -----------------------------------------------------------------------------------------------------
 
 ## 🎯 Project Objective
-
->>To analyze retail sales data and build an interactive Excel dashboard that helps businesses:
+   To analyze retail sales data and build an interactive Excel dashboard that helps businesses:
 
 * Track sales and profit performance
 * Identify top-performing products
 * Analyze regional performance
-* Understand sales trends over time
+*  Understand sales trends over time
   --------------------------------------------------------------------------------------------------
   
 ## 🛠 Tools & Techniques Used
